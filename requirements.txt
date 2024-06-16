@@ -7,4 +7,4 @@ requests
 pypi-json
 pyngrok
 nest-asyncio
-git+https://github.com/lovit/textrank.git
+
