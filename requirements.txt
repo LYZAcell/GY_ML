@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pickle5
+pydantic
+scikit-learn
+requests
+pypi-json
+pyngrok
+nest-asyncio
+git+https://github.com/lovit/textrank.git
